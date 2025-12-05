@@ -1,0 +1,6 @@
+"code;name;desc;effect;weight"
+"P01;Receh Point;Start dengan +50 Poin;POINT_50;25"
+"P02;Kantong Koin;Start dengan +100 Poin;POINT_100;24"
+"P03;Dompet Tebal;Start dengan +200 Poin;POINT_200;23"
+"P04;Harta Karun;Start dengan +500 Poin;POINT_500;22"
+"P05;JACKPOT!;Start dengan +1000 Poin;POINT_1000;15"
